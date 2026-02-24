@@ -1,0 +1,27 @@
+# Dataset (too large for GitHub)
+data/
+dataset/
+COVID-19_Radiography_Dataset/
+
+# Model checkpoints
+checkpoints/
+*.pth
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Colab
+drive/
